@@ -11,7 +11,7 @@ An abstract was accepted by The University of Tennessee Knoxville for the 2025 G
 A powerpoint presentation will also be uploaded soon.
 
 A code book is avalaible as a pdf to understand the variables of interet.
-This analysis was performed in google colab. Both py and ipynb files are avaliable. 
+This analysis was performed in google colab and is avalaibel as a py file.
 
 # Overall of Analysis Performed 
 1. Data processed in excel 

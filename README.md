@@ -8,7 +8,7 @@ The primary purpose of the thesis was to determine if an acute stretching sessio
 This required two visits to the biomechaincs lab where one day was a baseline while the other day was identical with the addition of 4 minutes of static dorsiflexion stretching in the knees extended position as well as the knees flexed.
 
 An abstract was accepted by The University of Tennessee Knoxville for the 2025 Graduate Student Colloquium and is attached as a pdf.
-A powerpoint presentation will also be uploaded soon.
+Powerpoint from conference is attached as a pdf.
 
 A code book is avalaible as a pdf to understand the variables of interest.
 This analysis was performed in google colab and is avaliable as a py and ipynb file.

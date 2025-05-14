@@ -1,5 +1,5 @@
 # Pickleball Machine Learning
-Post Hoc Analysis of Masters Thesis Data 
+Post Hoc Analysis of Masters Thesis Data - Financial Award Winner
 
 This repository showcases my machine learning skills utilitizing static ankle range of motion data from my masters thesis to predict the question: 
 Do biomechanical subgroups, based on pre- and post-pickleball movement ankle range of motions, emerge with distinct demographic profiles?
